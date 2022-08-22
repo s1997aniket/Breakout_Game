@@ -1,0 +1,36 @@
+    /*We make the position absolute,
+    this is done to have a reference 
+    for all of the blocks.*/
+.grid{
+    margin-top: 80px;
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid black 1px;
+}
+
+/*We are making the bottom left corner 
+    the anchor point of all the blocks*/
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: red;   
+
+}
+
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;   
+
+}
+
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: black;
+}
