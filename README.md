@@ -1,7 +1,6 @@
 # Breakout_Game
  A simple Breakout-Game in JavaScript. 
  
- How to play: 
  Game Link: https://s1997aniket.github.io/Breakout_Game/
 
  Setting up Locally:
