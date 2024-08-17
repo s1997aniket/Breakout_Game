@@ -12,7 +12,7 @@
 Google Drive Link:
 https://drive.google.com/drive/folders/1dr2Yn-Rg9qQivjxG78O7dmdgv8mU-xC5?usp=share_link
 
-# Preview:
+## Snapshot:
 
 ![Gameplay](./GamePlay.png)
 
